@@ -1,0 +1,4 @@
+2025-02-26 22:04:24,348 - ArbitrageBot - INFO - Arbitrage Bot initialized with min funding rate: 0.0001
+2025-02-26 22:04:24,350 - ArbitrageBot - INFO - Loading historical data from binance_btc_usdt_1_year_data_8h.csv
+2025-02-26 22:04:24,353 - ArbitrageBot - INFO - Starting backtest
+2025-02-26 22:04:24,353 - ArbitrageBot - INFO - Adding technical indicators
