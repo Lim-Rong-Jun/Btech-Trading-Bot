@@ -1,0 +1,21 @@
+2025-02-27 21:41:57,314 - funding_arbitrage - INFO - Successfully connected to Binance
+2025-02-27 21:41:57,314 - funding_arbitrage - INFO - TESTNET MODE ENABLED
+2025-02-27 21:41:57,316 - funding_arbitrage - ERROR - Error fetching balance: binance GET https://testnet.binance.vision/api/v3/account?timestamp=1740663717314&recvWindow=10000&signature=b3284c7a78c62b7595deb38ec16edac2be36800d2fc18c4aa8db79162551145e
+2025-02-27 21:46:29,335 - funding_arbitrage - INFO - Successfully connected to Binance
+2025-02-27 21:46:29,336 - funding_arbitrage - INFO - TESTNET MODE ENABLED
+2025-02-27 21:46:29,435 - funding_arbitrage - ERROR - Error fetching balance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-02-27 21:47:11,292 - funding_arbitrage - INFO - Successfully connected to Binance
+2025-02-27 21:47:11,293 - funding_arbitrage - INFO - TESTNET MODE ENABLED
+2025-02-27 21:47:11,376 - funding_arbitrage - ERROR - Error fetching balance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-02-27 21:51:05,936 - funding_arbitrage - INFO - Successfully connected to Binance
+2025-02-27 21:51:05,937 - funding_arbitrage - INFO - TESTNET MODE ENABLED
+2025-02-27 21:51:06,022 - funding_arbitrage - ERROR - Error fetching balance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-02-27 21:51:43,154 - funding_arbitrage - INFO - Successfully connected to Binance
+2025-02-27 21:51:43,155 - funding_arbitrage - INFO - TESTNET MODE ENABLED
+2025-02-27 21:51:43,238 - funding_arbitrage - ERROR - Error fetching balance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-02-27 21:55:19,103 - funding_arbitrage - INFO - Successfully connected to Binance
+2025-02-27 21:55:19,104 - funding_arbitrage - INFO - TESTNET MODE ENABLED
+2025-02-27 21:55:19,106 - funding_arbitrage - ERROR - Error fetching balance: binance requires "apiKey" credential
+2025-02-27 21:55:27,703 - funding_arbitrage - INFO - Successfully connected to Binance
+2025-02-27 21:55:27,703 - funding_arbitrage - INFO - TESTNET MODE ENABLED
+2025-02-27 21:55:27,704 - funding_arbitrage - ERROR - Error fetching balance: binance requires "apiKey" credential
